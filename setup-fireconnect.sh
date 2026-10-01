@@ -98,8 +98,8 @@ const MODELS = [
     description: "👀 Anthropic: cached $0.10  · in  $2    · out  $5",
   },
   {
-    model: "claude-sonnet-5[1m]",
-    label: "Claude Sonnet 5",
+    model: "claude-sonnet-5-5[1m]",
+    label: "Claude Sonnet 5.5",
     description: "👀 Anthropic: cached $0.20  · in  $4    · out $10",
   },
   {
